@@ -1,0 +1,31 @@
+body {
+  background-color: aliceblue;
+  font
+}
+
+h1 {
+  font-family: verdana;
+}
+
+h2 {
+  font-family: verdana;
+}
+
+h5 {
+  font-family: verdana;
+}
+
+p {
+  font-family: verdana;
+}
+
+.molly {
+  padding-top: 20px;
+  padding-left: 50px;
+  padding-right: 10px;
+  padding-bottom: 20px;
+}
+
+figcaption {
+  font-family: sans-serif;
+}
